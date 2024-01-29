@@ -1,2 +1,2 @@
-# boilerplate
-Basic HTML and CSS setup for simple web design
+# lab assignment #3
+floats... ew... it's okay though!
