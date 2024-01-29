@@ -1,1 +1,35 @@
 /* Add screen styles below */
+body {
+    background: #1F363D;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    background: #CFE0C3;
+    color: #1F363D;
+    margin: 0 auto;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgb(0, 0, 0, 0.3);
+}
+
+.card div {
+    padding: 20px;
+}
+
+#company {
+    background: #70A9A1;
+    margin: 0;
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+}
+
+ul {
+    list-style-position: inside;
+}
